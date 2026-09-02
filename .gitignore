@@ -216,3 +216,22 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Uploaded user files
+uploads/*
+!uploads/.gitkeep
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
