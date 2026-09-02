@@ -10,6 +10,20 @@
 
 AI Knowledge Hub is a full-stack application for working with PDF documents. Users can create an account, build a private document library, generate summaries and study questions, and ask questions whose answers are grounded in the uploaded document.
 
+## Screenshots
+
+### Login
+
+![Login page](screenshots/login.png)
+
+### Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+### Document AI workspace
+
+![AI document chat](screenshots/ai-chat.png)
+
 ## Features
 
 - Secure registration and login with JWT authentication
